@@ -1,2 +1,2 @@
-# POWERBI-RELATORIOSI
+# POWERBI-RELATORIOS
 Projetos e relatórios com Power BI
