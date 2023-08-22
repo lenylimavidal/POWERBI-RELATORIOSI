@@ -1,2 +1,2 @@
-# POWER BI 
+# Power BI 
 Dashboard 📊📈🔎
